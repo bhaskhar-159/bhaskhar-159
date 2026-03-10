@@ -4,7 +4,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Welocome%20to%20my%20Digital%20Space&fontSize=40&fontColor=ffffff)
 
 
-<h3 align="center">Backend Developer | Python | Django | REST APIs</h3>
+## 💡 Quote
+
+<div align="center">
+
+✨ *"The best way to predict the future is to build it."*  
+ — Alan Kay
+
+</div>
 
 ---
 
@@ -47,16 +54,7 @@
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
-
----
-
+![GitHub Streak](https://streak-stats.demolab.com?user=bhaskhar-159&theme=tokyonight)
 
 ---
 
