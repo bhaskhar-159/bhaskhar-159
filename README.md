@@ -1,7 +1,9 @@
-<!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Bhaskar%20Nayak&fontSize=40&fontColor=ffffff)
+<h1 align="center">Hi 👋, I'm Bhaskar M A</h1>
 
-<h1 align="center">Hi 👋, I'm Bhaskar Nayak</h1>
+<!-- Banner -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Welocome%20to%20my%20Digital%20Space&fontSize=40&fontColor=ffffff)
+
+
 <h3 align="center">Backend Developer | Python | Django | REST APIs</h3>
 
 ---
@@ -37,29 +39,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-### Frontend Basics
+### Frontend 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
----
-
-## 📂 Featured Projects
-
-### 🎓 Student Management System
-- Django CRUD Application
-- Role-based authentication
-- Admin & Student dashboard
-
-### 📚 Online Course Platform
-- Django backend with REST APIs
-- Course management system
-- User authentication
-
-### 📝 Blog Application
-- Django blog with authentication
-- Comments and post management
-
----
 
 ## 📊 GitHub Stats
 
@@ -79,11 +62,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🧑‍💻 Portfolio: https://yourportfolio.com
-- 📧 Email: yourmail@gmail.com
 
 ---
 
