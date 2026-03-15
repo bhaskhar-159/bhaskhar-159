@@ -3,10 +3,9 @@
 <!-- Banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Welocome%20to%20my%20Digital%20Space&fontSize=40&fontColor=ffffff)
 
-
 <div align="center">
 
-✨ *"The best way to predict the future is to build it."*  
+✨ *"The best way to predict the future is to build it."* ✨
  — Alan Kay
 
 </div>
@@ -15,7 +14,7 @@
 
 ## 🚀 About Me
 
-💻 Backend developer passionate about building scalable web applications.
+💻 Backend developer passionate about building scalable web applications using Python and Django.
 
 - 🔭 Currently learning **Advanced Django & REST APIs**
 - 🌱 Exploring **Cloud & DevOps**
@@ -56,4 +55,12 @@
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+## 📊 GitHub Stats
+
+![Bhaskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaskhar-159&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskhar-159&layout=compact&theme=tokyonight)
+
+⭐ *"Code. Learn. Build. Repeat."* ⭐
